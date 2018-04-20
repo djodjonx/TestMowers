@@ -1,0 +1,26 @@
+{
+  "name": "mow_it_now",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --exit",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djodjonx/TestMowers.git"
+  },
+  "author": "Jonathan Moutier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/djodjonx/TestMowers/issues"
+  },
+  "homepage": "https://github.com/djodjonx/TestMowers#readme",
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.1"
+  }
+}
