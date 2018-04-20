@@ -4,7 +4,7 @@
 
 * Clone the repo
 ```
-git clone url
+git clone https://github.com/djodjonx/TestMowers.git
 ```
 
 * Install dependencies
